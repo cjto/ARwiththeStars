@@ -51,9 +51,14 @@ class ViewController: UIViewController, ARSKViewDelegate {
     
     func view(_ view: ARSKView, nodeFor anchor: ARAnchor) -> SKNode? {
         // Create and configure a node for the anchor added to the view's session.
-        let labelNode = SKSpriteNode(imageNamed: "DrakeStatue")
         
-        return labelNode;
+        let randomStatues = ["Niki", "Drake"]
+        let randomizer = arc4random() % UInt32(randomStatues.count)
+        
+        let returnNode = randomStatues[Int(randomizer)]
+        let Node = SKSpriteNode(imageNamed: returnNode)
+        
+        return Node;
     }
     
     func session(_ session: ARSession, didFailWithError error: Error) {
