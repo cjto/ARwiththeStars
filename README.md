@@ -4,7 +4,7 @@ Collabarators: **Sammy Truong** and **Justin Teh**
 
 Our application attempts to distort reality with utilization of Apple's new Augmented Reality kit!
 Users are able to take a snapshot/take a picture as if they were standing right next to their favorite celebrities!
-(As a sample model, we have only implemented stars such as: Niki and Drizzy Drake)
+(As a sample model, we have only implemented stars such as: Niki and Drake)
 
 Time spend: **15** total hours spent in total
 
