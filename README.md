@@ -19,3 +19,5 @@ Time spend: **15** total hours spent in total
 - [ ] A snapshot button that would take a screenshot of what is displayed on the augmented view and can save the images to your your gallery
 - [ ] A swipe feature (similar to that of when Snapchat users swipe through the different options of filters) that showcases the different celebreties
 - [ ] Rather than a 2-dimensionl application to the celebrities in the app, the app can support a video/gif of the celebrities
+
+![Uploading IMG_3721.PNG…]()
